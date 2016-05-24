@@ -6,17 +6,13 @@ PODS:
 DEPENDENCIES:
   - Nimble (~> 3.0)
   - Quick (~> 0.8)
-  - swiftly-battle-net (from `../`)
-
-EXTERNAL SOURCES:
-  swiftly-battle-net:
-    :path: ../
+  - swiftly-battle-net (~> 0.1.0)
 
 SPEC CHECKSUMS:
   Nimble: 703854335d181df169bbca9c97117b5cf8c47c1d
   Quick: 18d057bc66451eedd5d1c8dc99ba2a5db6e60226
-  swiftly-battle-net: a61a23e3e8dc0ab5556fdee0f195372459d726f2
+  swiftly-battle-net: 07bfa3d21db4793adf87c31c91fe313cf0413ae2
 
-PODFILE CHECKSUM: b95be37fdae59b6ea55240ca60c5038fd0e557ac
+PODFILE CHECKSUM: 7039640c5728d9bcd89603023f1cd5dd4d85a776
 
 COCOAPODS: 1.0.0

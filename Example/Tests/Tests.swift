@@ -2,7 +2,7 @@
 
 import Quick
 import Nimble
-import swiftly-battle-net
+import swiftly_battle_net
 
 class TableOfContentsSpec: QuickSpec {
     override func spec() {

@@ -1,7 +1,7 @@
 use_frameworks!
 
 target 'swiftly-battle-net_Example' do
-  pod 'swiftly-battle-net', :path => '../'
+  pod 'swiftly-battle-net', '~> 0.1.0'
 
   target 'swiftly-battle-net_Tests' do
     inherit! :search_paths
