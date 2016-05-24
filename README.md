@@ -25,7 +25,7 @@ Reasoning for why I included the `Pods` directory in source control can be seen 
 
 ## Author
 
-Jeff Scaturro, jscaturro@asu.edu
+Jeff Scaturro, jeffrey.scaturro@gmail.com
 
 ## License
 
