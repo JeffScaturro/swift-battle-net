@@ -1,0 +1,6 @@
+framework module Pods_swiftly_battle_net_Tests {
+  umbrella header "Pods-swiftly-battle-net_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

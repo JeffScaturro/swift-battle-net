@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'swiftly-battle-net'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of swiftly-battle-net.'
+  s.summary          = 'Swift library to communicate with Blizzard\'s Battle.net API.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,20 +18,20 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+This pod allows one to communicate with Blizzard's Battle.net API. Through calling the methods provided by this pod, one will be able to interact with the various methods Blizzard's Battle.net API currently supports.
                        DESC
 
-  s.homepage         = 'https://github.com/<GITHUB_USERNAME>/swiftly-battle-net'
+  s.homepage         = 'https://github.com/JeffScaturro/swiftly-battle-net'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'Jeff Scaturro' => 'jscaturro@asu.edu' }
-  s.source           = { :git => 'https://github.com/<GITHUB_USERNAME>/swiftly-battle-net.git', :tag => s.version.to_s }
+  s.author           = { 'Jeff Scaturro' => 'jeffrey.scaturro@gmail.com' }
+  s.source           = { :git => 'https://github.com/JeffScaturro/swiftly-battle-net.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'swiftly-battle-net/Classes/**/*'
-  
+
   # s.resource_bundles = {
   #   'swiftly-battle-net' => ['swiftly-battle-net/Assets/*.png']
   # }

@@ -1,0 +1,22 @@
+PODS:
+  - Nimble (3.2.0)
+  - Quick (0.9.2)
+  - swiftly-battle-net (0.1.0)
+
+DEPENDENCIES:
+  - Nimble (~> 3.0)
+  - Quick (~> 0.8)
+  - swiftly-battle-net (from `../`)
+
+EXTERNAL SOURCES:
+  swiftly-battle-net:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Nimble: 703854335d181df169bbca9c97117b5cf8c47c1d
+  Quick: 18d057bc66451eedd5d1c8dc99ba2a5db6e60226
+  swiftly-battle-net: a61a23e3e8dc0ab5556fdee0f195372459d726f2
+
+PODFILE CHECKSUM: b95be37fdae59b6ea55240ca60c5038fd0e557ac
+
+COCOAPODS: 1.0.0

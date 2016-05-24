@@ -20,6 +20,8 @@ it, simply add the following line to your Podfile:
 pod "swiftly-battle-net"
 ```
 
+Reasoning for why I included the `Pods` directory in source control can be seen [here](https://guides.cocoapods.org/using/using-cocoapods.html#should-i-check-the-pods-directory-into-source-control).
+
 ## Author
 
 Jeff Scaturro, jscaturro@asu.edu
