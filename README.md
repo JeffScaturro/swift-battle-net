@@ -1,7 +1,7 @@
 # swiftly-battle-net
 
 [![Stories in Ready](https://badge.waffle.io/JeffScaturro/swiftly-battle-net.png?label=ready&title=Ready)](http://waffle.io/JeffScaturro/swiftly-battle-net)
-[![CI Status](http://img.shields.io/travis/Jeff Scaturro/swiftly-battle-net.svg?style=flat)](https://travis-ci.org/JeffScaturro/swiftly-battle-net)
+[![CI Status](http://img.shields.io/travis/JeffScaturro/swiftly-battle-net.svg?style=flat)](https://travis-ci.org/JeffScaturro/swiftly-battle-net)
 [![Version](https://img.shields.io/cocoapods/v/swiftly-battle-net.svg?style=flat)](http://cocoapods.org/pods/swiftly-battle-net)
 [![License](https://img.shields.io/cocoapods/l/swiftly-battle-net.svg?style=flat)](http://cocoapods.org/pods/swiftly-battle-net)
 [![Platform](https://img.shields.io/cocoapods/p/swiftly-battle-net.svg?style=flat)](http://cocoapods.org/pods/swiftly-battle-net)
