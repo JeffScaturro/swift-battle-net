@@ -38,5 +38,5 @@ This pod allows one to communicate with Blizzard's Battle.net API. Through calli
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
+  s.dependency 'Alamofire', '~> 3.4'
 end
