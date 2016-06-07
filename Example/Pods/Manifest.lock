@@ -8,7 +8,11 @@ PODS:
 DEPENDENCIES:
   - Nimble (~> 3.0)
   - Quick (~> 0.8)
-  - swiftly-battle-net (~> 0.1.1)
+  - swiftly-battle-net (from `../`)
+
+EXTERNAL SOURCES:
+  swiftly-battle-net:
+    :path: ../
 
 SPEC CHECKSUMS:
   Alamofire: c19a627cefd6a95f840401c49ab1f124e07f54ee
@@ -16,6 +20,6 @@ SPEC CHECKSUMS:
   Quick: 18d057bc66451eedd5d1c8dc99ba2a5db6e60226
   swiftly-battle-net: a730194646b37bac13822cb87e788b41e2fbbe26
 
-PODFILE CHECKSUM: cbc615bff99e91803da643b9b2d1991239950faf
+PODFILE CHECKSUM: 944d96fece3de391e0b9f905be7246c3e0bb2106
 
 COCOAPODS: 1.0.0
