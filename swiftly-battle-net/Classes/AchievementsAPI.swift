@@ -14,8 +14,6 @@ internal class AchievementsAPI {
     // TODO: Return an object of type Achievement (yet to be constructed).
     public func getAchievement(id: String) -> NSMutableURLRequest {
         let url: NSURL = {
-            let relativePath: String?
-            
             let url = NSURL(string: "\(id)?locale=\(APIManager.sharedInstance.locale)&apikey=\(APIManager.sharedInstance.apiKey)",
                             relativeToURL:baseURLString)!
             
