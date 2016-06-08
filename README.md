@@ -23,6 +23,12 @@ pod "swiftly-battle-net"
 
 Reasoning for why I included the `Pods` directory in source control can be seen [here](https://guides.cocoapods.org/using/using-cocoapods.html#should-i-check-the-pods-directory-into-source-control).
 
+## Usage
+
+First, before you can use the Battle.net API, you need to [register](https://dev.battle.net/apps/mykeys) to get an API key.
+
+
+
 ## Author
 
 Jeff Scaturro, jeffrey.scaturro@gmail.com

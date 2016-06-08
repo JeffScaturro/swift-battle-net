@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'swiftly-battle-net'
-  s.version          = '0.1.1'
+  s.version          = '0.1.11'
   s.summary          = 'Swift library to communicate with Blizzard\'s Battle.net API.'
 
 # This description is used to generate tags and improve search results.
@@ -26,7 +26,7 @@ This pod allows one to communicate with Blizzard's Battle.net API. Through calli
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Jeff Scaturro' => 'jeffrey.scaturro@gmail.com' }
   s.source           = { :git => 'https://github.com/JeffScaturro/swiftly-battle-net.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  s.social_media_url = 'https://twitter.com/jeff_scaturro'
 
   s.ios.deployment_target = '8.0'
 
@@ -39,4 +39,5 @@ This pod allows one to communicate with Blizzard's Battle.net API. Through calli
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
   s.dependency 'Alamofire', '~> 3.4'
+  s.dependency 'SwiftyJSON', '~> 2.3.1'
 end
