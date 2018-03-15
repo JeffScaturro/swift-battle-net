@@ -31,7 +31,7 @@ First, before you can use the Battle.net API, you need to [register](https://dev
 
 ## Author
 
-Jeff Scaturro, jeffrey.scaturro@gmail.com
+Jeff Scaturro; [email](mailto:jeff@jeffscaturro.com)
 
 ## License
 
